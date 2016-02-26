@@ -1,6 +1,6 @@
 # Scripting with Sed
 
-In this exercise you will create a simple script `nav.sh` that will convert `base.html` into four separate files: `home.html`, `about.html`, `work.html`, and `play.html`.
+Ian this exercise you will create a simple script `nav.sh` that will convert `base.html` into four separate files: `home.html`, `about.html`, `work.html`, and `play.html`.
 
 ## Contents of Base
 
